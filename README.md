@@ -65,6 +65,8 @@ This project explores the UCI Online Retail dataset using Python and Pandas. The
 - Revenue calculated as Quantity × UnitPrice may include negative transaction values.
 - Results should be interpreted according to the cleaning and analysis rules used.
 
+https://github.com/NavinkData/retail/blob/main/Screenshot%202026-10-14%20171925.png
+
 ## Author
 
 Navin Kumar Singh
